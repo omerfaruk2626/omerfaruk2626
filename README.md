@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DarkZ</h1>
+<h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A FullStack developer from World!</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47jlg3jxdmpq8nxzxkh476l1fiove8q4j92pmr2rki&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfaruk2626&label=Profile%20views&color=0e75b6&style=flat" alt="omerfaruk2626" /> </p>
