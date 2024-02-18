@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Courses, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://omerfaruk2626.github.io/Google-1/](https://omerfaruk2626.github.io/Google-1/)
+- 👨‍💻 All of my projects are available at [https://omerfaruk2626.github.io/Google-1/](https://omerfaruk2626.github.io/code_fighters/index.html)
 
-- 💬 Ask me about **JavaScript, Python, Html, Css**
+- 💬 Ask me about **JavaScript, Python, Html, Css, Boostrap**
 
 - ⚡ Fun fact **I think I am funny team mates**
 
