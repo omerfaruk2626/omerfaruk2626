@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋, I'm Omer</h1>
 <h3 align="center">A FullStack developer from World!</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47jlg3jxdmpq8nxzxkh476l1fiove8q4j92pmr2rki&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47jlg3jxdmpq8nxzxkh476l1fiove8q4j92pmr2rki&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfaruk2626&label=Profile%20views&color=0e75b6&style=flat" alt="omerfaruk2626" /> </p>
 
 - 👨‍💻 All of my projects are available at [omerfaruksivri.com.tr](https://www.omerfaruksivri.com.tr)
@@ -15,14 +15,39 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/o-faruk-sivri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/o-faruk-sivri/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23258999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23258999" height="30" width="40" /></a>
-<a href="https://medium.com/@omerfaruksivri26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omerfaruksivri26" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/o-faruk-sivri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/o-faruk-sivri/" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/23258999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23258999" height="30" width="30" /></a>
+<a href="https://medium.com/@omerfaruksivri26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omerfaruksivri26" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="center">:rocket:Technical Skills</h2>
+<div align="center">
+<img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
+<img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
+<img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
+<img width="30px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+<img width="30px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+<img width="30px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
+<img width="30px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
+<img width="30px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+<img width="30px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
+<img width="30px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
+<img width="30px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
+<img width="30px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<br/>
+<img width="30px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+<img width="30px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
+<img width="30px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
+<img width="30px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+<img width="30px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+<img width="30px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+<img width="30px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+<img width="30px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
+<img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+<img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+</div>
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfaruk2626&show_icons=true&locale=en&layout=compact" alt="omerfaruk2626" /></p>
 
