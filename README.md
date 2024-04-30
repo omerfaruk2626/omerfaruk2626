@@ -49,7 +49,7 @@
 <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
 </div>
 <hr/>
-  <div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="display: flex; justify-content: center; align-items: center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruk2626&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&width=300&height=175" style="width: 300px; height: 175px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=omerfaruk2626&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&width=300&height=175" style="width: 300px; height: 175px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfaruk2626&width=300&height=175" alt="omerfaruk2626" style="width: 300px; height: 175px;" />
