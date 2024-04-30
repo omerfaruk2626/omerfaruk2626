@@ -1,7 +1,8 @@
-<h1 align="center">Hi! 👋, I'm Omer</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfaruk2626&style=for-the-badge&color=brightgreen" alt="omerfaruk2626" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Faruk;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Professional Table Tennis Player;Piano Lover; Chess Lover" alt="Typing SVG" /></a>
 <h3 align="center">A FullStack developer from World!</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47jlg3jxdmpq8nxzxkh476l1fiove8q4j92pmr2rki&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfaruk2626&label=Profile%20views&color=0e75b6&style=flat" alt="omerfaruk2626" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [omerfaruksivri.com.tr](https://www.omerfaruksivri.com.tr)
 
@@ -19,9 +20,9 @@
 <a href="https://stackoverflow.com/users/23258999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23258999" height="30" width="30" /></a>
 <a href="https://medium.com/@omerfaruksivri26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omerfaruksivri26" height="30" width="30" /></a>
 </p>
-
-<h2 align="center">:rocket:Technical Skills</h2>
 <div align="center">
+<h2 align="center">:rocket:Technical Skills</h2>
+
 <img width="30px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="30px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
 <img width="30px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
@@ -47,10 +48,12 @@
 <img width="30px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
 <img width="30px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
 </div>
-</br>
+<hr/>
+  <div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruk2626&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&width=300&height=175" style="width: 300px; height: 175px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=omerfaruk2626&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515&width=300&height=175" style="width: 300px; height: 175px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfaruk2626&width=300&height=175" alt="omerfaruk2626" style="width: 300px; height: 175px;" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfaruk2626&show_icons=true&locale=en&layout=compact" alt="omerfaruk2626" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omerfaruk2626&show_icons=true&locale=en" alt="omerfaruk2626" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerfaruk2626&" alt="omerfaruk2626" /></p>
