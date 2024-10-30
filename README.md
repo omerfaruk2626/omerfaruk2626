@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [omerfaruksivri.com.tr](https://www.omerfaruksivri.com.tr)
 
-- 🔭 I’m currently working on [kadikuyusu.com](https://omerfaruk2626.github.io/kadikuyusu.com/#)
+- 🔭 I’m currently working on [banadersbul.com](https://omerfaruk2626.github.io/kadikuyusu.com/#)
 
 - 🌱 I’m currently learning **Courses, JavaScript**
 
