@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Courses, JavaScript**
 
-- 💬 Ask me about **JavaScript, Python, Html, Css, Boostrap**
+- 💬 Ask me about **JavaScript, Html, Css, Boostrap, Tailwind, React, Next.js**
 
 - ⚡ Fun fact **I think I am funny team mates**
 
