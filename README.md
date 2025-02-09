@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [omerfaruksivri.com.tr](https://www.omerfaruksivri.com.tr)
 
 - 🔭 I’m currently working on;
-    - [banadersbul.com](https://www.banadersbul.com/) - [etkincari.com.tr](https://www.etkincari.com.tr/) - [kadikuyusu.com](https://www.kadikuyusu.com./)
+    - [banadersbul.com](https://www.banadersbul.com/) - [etkincari.com.tr](https://www.etkincari.com.tr/) - [kadikuyusu.com](https://www.kadikuyusu.com/)
 
 - 🌱 I’m currently learning **Courses, JavaScript**
 
